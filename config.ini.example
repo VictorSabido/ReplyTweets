@@ -1,0 +1,11 @@
+[DDBB]
+dbhost = "localhost"
+dbuser = "root"
+dbpass = "root"
+db     = "twitter-api"
+
+[TWITTER]
+CONSUMER_KEY= ""
+CONSUMER_SECRET= ""
+ACCESS_TOKEN= ""
+ACCESS_TOKEN_SECRET= ""

@@ -1,0 +1,13 @@
+{
+    "name": "vsabi/twitter-api",
+    "authors": [
+        {
+            "name": "Victor",
+            "email": "vsabidorubio@gmail.com"
+        }
+    ],
+    "require": {
+        "abraham/twitteroauth": "^1.1",
+        "statickidz/php-google-translate-free": "^1.1"
+    }
+}

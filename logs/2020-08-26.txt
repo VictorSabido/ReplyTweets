@@ -1,0 +1,84 @@
+[2020/08/26 15:54:40] Error
+[2020/08/26 15:54:54] Error
+[2020/08/26 15:55:25] Error
+[2020/08/26 15:56:09] Error
+[2020/08/26 16:02:03] Error
+[2020/08/26 16:04:08] Error
+[2020/08/26 16:04:24] Error
+[2020/08/26 16:04:41] Error
+[2020/08/26 16:05:18] Error
+[2020/08/26 16:05:45] Error
+[2020/08/26 16:05:57] Error
+[2020/08/26 16:05:58] Error
+[2020/08/26 16:06:36] Error
+[2020/08/26 16:07:47] Error
+[2020/08/26 16:07:50] Error
+[2020/08/26 16:07:56] Error
+[2020/08/26 16:08:08] Error
+[2020/08/26 16:08:16] Error
+[2020/08/26 16:08:25] Error
+[2020/08/26 16:08:54] Error
+[2020/08/26 16:09:04] Error
+[2020/08/26 16:09:05] Error
+[2020/08/26 16:09:44] Error
+[2020/08/26 16:09:45] Error
+[2020/08/26 16:09:56] Error
+[2020/08/26 16:09:57] Error
+[2020/08/26 16:11:31] Error
+[2020/08/26 16:11:42] Error
+[2020/08/26 16:12:24] Error
+[2020/08/26 16:12:28] Error
+[2020/08/26 16:12:38] Error
+[2020/08/26 16:12:44] Error
+[2020/08/26 16:12:46] Error
+[2020/08/26 16:13:00] Error
+[2020/08/26 16:15:04] Error
+[2020/08/26 16:15:40] Error
+[2020/08/26 16:16:15] Error
+[2020/08/26 16:16:18] Error
+[2020/08/26 16:17:01] Error
+[2020/08/26 16:18:20] Error
+[2020/08/26 16:18:28] Error
+[2020/08/26 16:19:11] Error
+[2020/08/26 16:19:39] Error
+[2020/08/26 16:20:17] Error
+[2020/08/26 16:21:22] 1298625429423771649-IbaiLlanos {Pero qué os pasa en la cabeza a los de tiktok https://t.co/K2OrHe6RYn}
+[2020/08/26 16:21:22] 1298391601706938368-IbaiLlanos {De nada Fernando Simón https://t.co/boXmJgWnUd}
+[2020/08/26 16:21:23] 1298388825308385280-IbaiLlanos {https://t.co/NdJ6MFab84}
+[2020/08/26 16:21:23] 1298368978692247553-IbaiLlanos {JOSEP PEDREROL EN DIRECTO: “MESSI SE PUEDE QUEDAR”  https://t.co/m5NZJ9R6VT}
+[2020/08/26 16:21:23] 1298347793745051650-IbaiLlanos {Especial Lionel Messi hablando con aficionados del Barça en directoEl Chiringuito pre Chiringuito https://t.co/cL2WMcjsI6}
+[2020/08/26 16:21:23] 1298334541866848261-IbaiLlanos {Josep Pedrerol estaba en la playa de vacaciones a las 20:00, se entera de lo de Messi, se sube al hotel, se pilla u… https://t.co/A4Mb9dKyNX}
+[2020/08/26 16:21:23] 1298324138021523458-IbaiLlanos {Deja el fútbol. Bienvenido a casa, Leo. Firma como nuevo streamer de @G2esports https://t.co/C41OYAjmMO}
+[2020/08/26 16:21:23] 1298322039346999296-IbaiLlanos {https://t.co/vxqCuHeTkq}
+[2020/08/26 16:21:23] 1298311714715336704-IbaiLlanos {https://t.co/2B9ZJZ0Ljp}
+[2020/08/26 16:21:23] 1298309480988528640-IbaiLlanos {Me acaba de dar un infarto https://t.co/asK32COqol}
+[2020/08/26 16:21:30] 1298625429423771649-IbaiLlanos {Pero qué os pasa en la cabeza a los de tiktok https://t.co/K2OrHe6RYn}
+[2020/08/26 16:21:30] 1298391601706938368-IbaiLlanos {De nada Fernando Simón https://t.co/boXmJgWnUd}
+[2020/08/26 16:21:30] 1298388825308385280-IbaiLlanos {https://t.co/NdJ6MFab84}
+[2020/08/26 16:21:30] 1298368978692247553-IbaiLlanos {JOSEP PEDREROL EN DIRECTO: “MESSI SE PUEDE QUEDAR”  https://t.co/m5NZJ9R6VT}
+[2020/08/26 16:21:30] 1298347793745051650-IbaiLlanos {Especial Lionel Messi hablando con aficionados del Barça en directoEl Chiringuito pre Chiringuito https://t.co/cL2WMcjsI6}
+[2020/08/26 16:21:30] 1298334541866848261-IbaiLlanos {Josep Pedrerol estaba en la playa de vacaciones a las 20:00, se entera de lo de Messi, se sube al hotel, se pilla u… https://t.co/A4Mb9dKyNX}
+[2020/08/26 16:21:30] 1298324138021523458-IbaiLlanos {Deja el fútbol. Bienvenido a casa, Leo. Firma como nuevo streamer de @G2esports https://t.co/C41OYAjmMO}
+[2020/08/26 16:21:30] 1298322039346999296-IbaiLlanos {https://t.co/vxqCuHeTkq}
+[2020/08/26 16:21:30] 1298311714715336704-IbaiLlanos {https://t.co/2B9ZJZ0Ljp}
+[2020/08/26 16:21:30] 1298309480988528640-IbaiLlanos {Me acaba de dar un infarto https://t.co/asK32COqol}
+[2020/08/26 16:21:31] 1298309480988528640 (@IbaiLlanos) Replied with-> Acabei de ter um ataque cardíaco https://t.co/asK32COqol
+[2020/08/26 16:21:32] 1298311714715336704 (@IbaiLlanos) Replied with-> https://t.co/2B9ZJZ0Ljp
+[2020/08/26 16:21:32] 1298322039346999296 (@IbaiLlanos) Replied with-> https://t.co/vxqCuHeTkq
+[2020/08/26 16:21:33] 1298324138021523458 (@IbaiLlanos) Replied with-> Largue o futebol.
+
+Bem-vindo ao lar, Leo.
+
+Assine como um novo streamer de @ G2esports https://t.co/C41OYAjmMO
+[2020/08/26 16:21:34] 1298334541866848261 (@IbaiLlanos) Replied with-> Josep Pedrerol estava na praia de férias às 20:00, ele descobre sobre Messi, ele sobe para o hotel, ele te pega… https://t.co/A4Mb9dKyNX
+[2020/08/26 16:21:34] 1298347793745051650 (@IbaiLlanos) Replied with-> Lionel Messi falando especial com os fãs do Barça ao vivo
+
+O Chiringuito pré Chiringuito
+https://t.co/cL2WMcjsI6
+[2020/08/26 16:21:35] 1298368978692247553 (@IbaiLlanos) Replied with-> JOSEP PEDREROL LIVE:
+"MESSI CAN STAY"
+ https://t.co/m5NZJ9R6VT
+[2020/08/26 16:21:36] 1298388825308385280 (@IbaiLlanos) Replied with-> https://t.co/NdJ6MFab84
+[2020/08/26 16:21:36] 1298391601706938368 (@IbaiLlanos) Replied with-> De nada, Fernando Simón https://t.co/boXmJgWnUd
+[2020/08/26 16:21:37] 1298625429423771649 (@IbaiLlanos) Replied with-> Mas o que acontece na cabeça do tiktok https://t.co/K2OrHe6RYn
+[2020/08/26 16:21:37] Success
